@@ -1,0 +1,26 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+    },
+    "last.imagePath": "C:/Users/User/Downloads",
+    "map.height": 25,
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 144,
+    "map.tileWidth": 144,
+    "openFiles": [
+    ],
+    "project": "L1.tiled-project",
+    "recentFiles": [
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 144,
+        "width": 144
+    }
+}
